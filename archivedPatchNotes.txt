@@ -1,0 +1,13 @@
+-------------- PATCH NOTES ----------------
+Some new active and passive features were added.
+(1) Now typing '$help' will list all the commands the bot has.
+ - Type this to find out how to use commands and what commands do.
+
+(2) Birthday tracking was added.
+ - Notifies when it is someones birthday. Also supports the addition, deletion and creation of birthdays.
+
+(3) Activity Tracking was added.
+ - Tracks activity based on messages sent, time between messages, and minutes in the 'general' voice channel. Using this information we assign each person a value to repersent their activity.
+
+(4) 'Poggy Points' were added, only Jack can assign these.
+ - Jack can assign people poggy points.

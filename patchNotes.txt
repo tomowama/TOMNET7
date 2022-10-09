@@ -1,0 +1,11 @@
+-------------- PATCH NOTES ----------------
+Patches were made to point farming
+
+Buff: General 2 can also be used to gain activity points.
+
+Buff: Every week the bot will give the winner of the weekly activity board the new role "LAST WEEKS WINNER" and remove the role from the previous holder.
+
+Nerf: only give voice points if more than one two people in call.
+
+Nerf: Players can be reported for farming points. $ReportFarm <PlayerName>. The request will be submitted for manual review. Admins will deduct points as seen fit. Please be sure to follow the command up with evidence.
+

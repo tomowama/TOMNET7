@@ -1,0 +1,31 @@
+--------------- Commands -----------------
+      ACTIVITY TRACKING
+ - '$weeklyActivity' sends the weekly activity leaderboard
+
+ - '$allTimeActivity' sends the all-time activity leaderboard
+
+ - '$trackMe' asks the bot to start tracking your activity in the discord
+-------------------------------------
+      POGGYPOINT TRACKER
+ - '$addPoggyPoints <name> <points>' adds poggy points to a user (only jack can do this)
+
+ - '$notPog <name>' removes a name from the poggy point tracker (only jack can do this)
+
+ - '$poggyBoard' displays the poggy point leaderboard
+
+ - '$poggyBalance <name>' displays someone's poggy point total
+-------------------------------------
+      CONNOR IN 🐶🏠?
+ - '$doghouse' checks if connor is in the dog house or not
+
+ - '!doghouse' takes connor out of the dog house, or puts him in! (Only Haley can do this)
+
+-------------------------------------
+      BIRTHDAY TRACKER   
+ - '$getBirthday <name>' gets the birthday of someone
+
+ - '$getBirthdays <monthName>' gets all birthdays in a given month
+
+ - '$addBirthday <monthName> <day> <name>' sets a birthday in the system
+
+ - '$deleteBirthday <name>' removes a birthday from the system
